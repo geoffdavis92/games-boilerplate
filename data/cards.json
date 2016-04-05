@@ -1,0 +1,106 @@
+// &clubs; ♣ &spades; ♠
+// &hearts; ♥ &diams; ♦
+{
+	"display": "A♠",
+	"modifier": "A",
+	"name": "Ace of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": [1,13]
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "3♠",
+	"modifier": "3",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 3
+},
+{
+	"display": "4♠",
+	"modifier": "4",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 4
+},
+{
+	"display": "5♠",
+	"modifier": "5",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 5
+},
+{
+	"display": "6♠",
+	"modifier": "6",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 6
+},
+{
+	"display": "7♠",
+	"modifier": "7",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 7
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+},
+{
+	"display": "2♠",
+	"modifier": "2",
+	"name": "Two of Spades",
+	"suit": "spades",
+	"symbol": "♠",
+	"value": 2
+}
