@@ -1,0 +1,3 @@
+# game-boilerplate ignores... 
+node_modules 
+dev/
