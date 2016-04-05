@@ -1,0 +1,6 @@
+for file in sitescripts
+	if env !== 'build'
+		script(src="/js/#{file}.js")
+if pagescripts
+	for file in pagescripts
+		script(src="/js/#{file}.js")
