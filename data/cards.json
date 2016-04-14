@@ -103,7 +103,8 @@
 	"suit": "spades",
 	"symbol": "♠",
 	"value": 13
-},{
+},
+{
 	"display": "A♣",
 	"modifier": "A",
 	"name": "Ace of Clubs",
@@ -205,5 +206,109 @@
 	"name": "King of Clubs",
 	"suit": "clubs",
 	"symbol": "♣",
+	"value": 13
+},
+{
+	"display": "A♥",
+	"modifier": "A",
+	"name": "Ace of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": [1,14]
+},
+{
+	"display": "2♥",
+	"modifier": "2",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 2
+},
+{
+	"display": "3♥",
+	"modifier": "3",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 3
+},
+{
+	"display": "4♥",
+	"modifier": "4",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 4
+},
+{
+	"display": "5♥",
+	"modifier": "5",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 5
+},
+{
+	"display": "6♥",
+	"modifier": "6",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 6
+},
+{
+	"display": "7♥",
+	"modifier": "7",
+	"name": "Two of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 7
+},
+{
+	"display": "8♥",
+	"modifier": "8",
+	"name": "Eight of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 8
+},
+{
+	"display": "9♥",
+	"modifier": "9",
+	"name": "Nine of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 9
+},
+{
+	"display": "10♥",
+	"modifier": "10",
+	"name": "Ten of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 10
+},
+{
+	"display": "J♥",
+	"modifier": "J",
+	"name": "Jack of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 11
+},
+{
+	"display": "Q♥",
+	"modifier": "Q",
+	"name": "Queen of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
+	"value": 12
+},
+{
+	"display": "K♥",
+	"modifier": "K",
+	"name": "King of Hearts",
+	"suit": "hearts",
+	"symbol": "♥",
 	"value": 13
 },
