@@ -312,3 +312,107 @@
 	"symbol": "♥",
 	"value": 13
 },
+{
+	"display": "A♦",
+	"modifier": "A",
+	"name": "Ace of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": [1,14]
+},
+{
+	"display": "2♦",
+	"modifier": "2",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 2
+},
+{
+	"display": "3♦",
+	"modifier": "3",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 3
+},
+{
+	"display": "4♦",
+	"modifier": "4",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 4
+},
+{
+	"display": "5♦",
+	"modifier": "5",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 5
+},
+{
+	"display": "6♦",
+	"modifier": "6",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 6
+},
+{
+	"display": "7♦",
+	"modifier": "7",
+	"name": "Two of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 7
+},
+{
+	"display": "8♥",
+	"modifier": "8",
+	"name": "Eight Diamonds Hearts",
+	"suit": "diamonds",
+	"symbol": "♥",
+	"value": 8
+},
+{
+	"display": "9♥♦,
+	"modifier": "9",
+	"name": "Nine of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 9
+},
+{
+	"display": "1♦♥",
+	"modifier": "10",
+	"name": "Ten of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 10
+},
+{
+	"display": "J♥♦,
+	"modifier": "J",
+	"name": "Jack of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 11
+},
+{
+	"display": "Q♥",
+	"modifier": "Q",
+	"name": "Queen Diamonds Hearts",
+	"suit": "diamonds",
+	"symbol": "♥",
+	"value": 12
+},
+{
+	"display": "K♥♦,
+	"modifier": "K",
+	"name": "King of Diamonds",
+	"suit": "diamonds",
+	"symbol": "♦",
+	"value": 13
+}
