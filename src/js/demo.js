@@ -13,3 +13,7 @@ for(let int = 0; int<100;int++) {
 		}
 	})
 }
+const p1 = [],
+	  p2 = [];
+	  
+deck.deal(2,2,[p1,p2])

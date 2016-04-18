@@ -1,3 +1,4 @@
 {
-	"sitescripts": ["random"]
+	"env": "dev",
+	"sitescripts": ["random","react"]
 }

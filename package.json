@@ -24,5 +24,8 @@
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-eslint": "^18.0.0"
+  },
+  "dependencies": {
+    "react": "^15.0.1"
   }
 }

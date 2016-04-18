@@ -1,12 +1,16 @@
 module.exports = function(grunt) {
 	grunt.initConfig({
 		copy: {
-			files: [{
-				expand: true,
-				filter: 'isFile',
-				src: [''],
-				dest: ''
-			}]
+			dev_js: {
+				files: {
+					'dev/js/react.js':'node_modules/react/dist/react.js'
+				} /*[{
+					expand: true,
+					filter: 'isFile',
+					src: ['node_modules/react/dist/react.js'],
+					dest: 'dev/js'
+				}]*/
+			}
 		},
 		watch: {
 			jade: {
@@ -131,7 +135,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-watch');
 
 	grunt.registerTask('default', []);
-	grunt.registerTask('dev', ['watch']);
+	grunt.registerTask('dev', ['copy','watch']);
 	grunt.registerTask('build', ['eslint','babel:build','jade:build','sass:build'])
 
 }

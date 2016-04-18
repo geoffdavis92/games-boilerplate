@@ -317,7 +317,7 @@
 	"modifier": "A",
 	"name": "Ace of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": [1,14]
 },
 {
@@ -325,7 +325,7 @@
 	"modifier": "2",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 2
 },
 {
@@ -333,7 +333,7 @@
 	"modifier": "3",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 3
 },
 {
@@ -341,7 +341,7 @@
 	"modifier": "4",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 4
 },
 {
@@ -349,7 +349,7 @@
 	"modifier": "5",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 5
 },
 {
@@ -357,7 +357,7 @@
 	"modifier": "6",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 6
 },
 {
@@ -365,7 +365,7 @@
 	"modifier": "7",
 	"name": "Two of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 7
 },
 {
@@ -377,11 +377,11 @@
 	"value": 8
 },
 {
-	"display": "9♥♦,
+	"display": "9♦",
 	"modifier": "9",
 	"name": "Nine of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 9
 },
 {
@@ -389,15 +389,15 @@
 	"modifier": "10",
 	"name": "Ten of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 10
 },
 {
-	"display": "J♥♦,
+	"display": "J♦",
 	"modifier": "J",
 	"name": "Jack of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 11
 },
 {
@@ -409,10 +409,10 @@
 	"value": 12
 },
 {
-	"display": "K♥♦,
+	"display": "K♦",
 	"modifier": "K",
 	"name": "King of Diamonds",
 	"suit": "diamonds",
-	"symbol": "♦",
+	"symbol": "♥",
 	"value": 13
 }
